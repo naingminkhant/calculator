@@ -13,9 +13,7 @@
         "illuminate/support": "^5.0"
     },
     "autoload":{
-        "classmap":["database"],
         "psr-4":{
-            "App\\":"app/",
             "NaingMinKhant\\Calculator\\":"src/"
         }
     }
